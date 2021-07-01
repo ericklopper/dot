@@ -1,0 +1,46 @@
+[General]
+Number of Actions=0
+
+[KPropertiesDialog]
+eDP1 HDMI2 Height 1920x1080=463
+eDP1 HDMI2 Width 1920x1080=428
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1100,750
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=48,508,129,104
+sortColumn=3
+sortOrder=0
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[PlasmaTransientsConfig]
+PreloadWeight=42
+enableKWinEdges=true
+raiseOnActivityChange=false
+raiseOnDesktopChange=false
+timerHide=700
+timerShow=200
+
+[ScreenConnectors]
+10=eDP1:::0,0 1920x1080
+11=HDMI2:::0,0 1920x1080
+
+[UniversalSettings]
+badges3DStyle=false
+canDisableBorders=true
+contextMenuActionsAlwaysShown=
+currentLayout=Dr460nized
+inAdvancedModeForEditSettings=false
+lastNonAssignedLayout=Dr460nized
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=false
+mouseSensitivity=0
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=Dr460nized
+version=2

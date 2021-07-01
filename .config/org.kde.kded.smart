@@ -1,0 +1,2 @@
+[Ignores]
+/org/freedesktop/UDisks2/block_devices/nvme0n1=false

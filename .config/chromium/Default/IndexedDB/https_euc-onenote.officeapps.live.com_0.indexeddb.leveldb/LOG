@@ -1,0 +1,6 @@
+2021/06/24-15:33:05.918 85a95 Creating DB /home/torr/.config/chromium/Default/IndexedDB/https_euc-onenote.officeapps.live.com_0.indexeddb.leveldb since it was missing.
+2021/06/24-15:33:05.966 85a95 Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_euc-onenote.officeapps.live.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/24-15:33:17.196 85a95 Level-0 table #5: started
+2021/06/24-15:33:17.209 85a95 Level-0 table #5: 3892 bytes OK
+2021/06/24-15:33:17.233 85a95 Delete type=0 #3
+2021/06/24-15:33:17.233 85a95 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

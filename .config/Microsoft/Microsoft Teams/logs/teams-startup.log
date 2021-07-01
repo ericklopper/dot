@@ -1,0 +1,6 @@
+Error while parsing hooks JSON. Error: "ENOENT: no such file or directory, open '/home/torr/.config/Microsoft/Microsoft Teams/hooks.json'"
+(node:554143) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+
+(teams:554143): Gtk-WARNING **: 19:18:57.811: Theme parsing error: gtk-dark.css:6342:10: 'height' is not a valid property name
+(node:554143) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 ecsSettingsUpdated listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit
+(node:554143) MaxListenersExceededWarning: Possible EventEmitter memory leak detected. 11 appInitialized listeners added to [EventEmitter]. Use emitter.setMaxListeners() to increase limit

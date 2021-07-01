@@ -1,0 +1,34 @@
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=Garuda.profile
+
+[DetailsMode]
+FontWeight=50
+
+[General]
+AutoExpandFolders=true
+ShowToolTips=true
+ShowZoomSlider=false
+Version=200
+ViewPropsTimestamp=2021,6,23,10,9,19.547
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAACKvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAqAAACKgAAAE4A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAHgAAAALb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHgAAAAAIA////AAABPwAAAioAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP1 HDMI2 Height 1920x1080=1044
+eDP1 HDMI2 Width 1920x1080=1920
+eDP1 HDMI2 Window-Maximized 1920x1080=true
+eDP1 HDMI2 XPosition 1920x1080=1920
+eDP1 HDMI2 YPosition 1920x1080=36
+eDP1 XPosition 1920x1080=905
+eDP1 YPosition 1920x1080=64
+
+[Open-with settings]
+CompletionMode=1
+History=foxit
+
+[Search]
+Location=Everywhere

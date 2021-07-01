@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"https://gitcdn.xyz":{"supports_spdy":true}},{"https://flathub.org":{"supports_spdy":true}},{"https://appimage.github.io":{"supports_spdy":true}},{"https://dl.flathub.org":{"supports_spdy":true}}],"version":5},"network_qualities":{"CAISABiAgICA+P////8B":"4G"}}}

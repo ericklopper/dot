@@ -1,0 +1,24 @@
+2021/07/01-13:22:50.254 3 Reusing MANIFEST /home/torr/.config/chromium/Default/Session Storage/MANIFEST-000001
+2021/07/01-13:22:50.255 3 Recovering log #380
+2021/07/01-13:22:50.256 3 Reusing old log /home/torr/.config/chromium/Default/Session Storage/000380.log 
+2021/07/01-13:23:19.633 5 Level-0 table #384: started
+2021/07/01-13:23:19.644 5 Level-0 table #384: 111413 bytes OK
+2021/07/01-13:23:19.655 5 Delete type=0 #380
+2021/07/01-13:34:07.705 f Level-0 table #386: started
+2021/07/01-13:34:07.716 f Level-0 table #386: 107547 bytes OK
+2021/07/01-13:34:07.725 f Delete type=0 #383
+2021/07/01-13:34:10.544 b Level-0 table #388: started
+2021/07/01-13:34:10.553 b Level-0 table #388: 95907 bytes OK
+2021/07/01-13:34:10.561 b Delete type=0 #385
+2021/07/01-13:34:10.561 b Compacting 4@0 + 1@1 files
+2021/07/01-13:34:10.582 b Generated table #389@0: 4641 keys, 612652 bytes
+2021/07/01-13:34:10.582 b Compacted 4@0 + 1@1 files => 612652 bytes
+2021/07/01-13:34:10.588 b compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/01-13:34:10.589 b Delete type=2 #379
+2021/07/01-13:34:10.589 b Delete type=2 #381
+2021/07/01-13:34:10.590 b Delete type=2 #384
+2021/07/01-13:34:10.590 b Delete type=2 #386
+2021/07/01-13:34:10.590 b Delete type=2 #388
+2021/07/01-13:43:09.018 b Level-0 table #391: started
+2021/07/01-13:43:09.030 b Level-0 table #391: 93250 bytes OK
+2021/07/01-13:43:09.037 b Delete type=0 #387

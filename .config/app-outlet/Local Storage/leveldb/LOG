@@ -1,0 +1,5 @@
+2021/06/28-18:56:29.103 3b8d5 Reusing MANIFEST leveldb/MANIFEST-000001
+2021/06/28-18:56:29.103 3b8d5 Recovering log #3
+2021/06/28-18:56:29.104 3b8d5 Level-0 table #3: started
+2021/06/28-18:56:29.111 3b8d5 Level-0 table #3: 31005 bytes OK
+2021/06/28-18:56:29.118 3b8d5 Delete type=0 #3

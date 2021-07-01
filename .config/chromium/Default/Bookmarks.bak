@@ -1,0 +1,111 @@
+{
+   "checksum": "28328a4fbbd68d2c1d49baaaa073dd09",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13102446837000000",
+            "guid": "7edad0e7-1b0c-4f2f-9fb4-944de8ff29a3",
+            "id": "5",
+            "name": "Garuda Linux",
+            "type": "url",
+            "url": "https://garudalinux.org/"
+         }, {
+            "date_added": "13102446886000000",
+            "guid": "b73f260f-82e4-4553-a17a-2f60d7314f38",
+            "id": "6",
+            "name": "Wiki",
+            "type": "url",
+            "url": "https://wiki.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "e2beebff-48db-4ce6-b63f-307780a497fd",
+            "id": "7",
+            "name": "Garuda Forum",
+            "type": "url",
+            "url": "https://forum.garudalinux.org/"
+         }, {
+            "date_added": "13102446920000000",
+            "guid": "836091e8-8ced-4e15-b546-a571649b32b9",
+            "id": "8",
+            "name": "UptimeRobot",
+            "type": "url",
+            "url": "https://stats.uptimerobot.com/RwpoGIrmnJ"
+         }, {
+            "children": [ {
+               "date_added": "13269085266383980",
+               "guid": "6056b612-1894-487b-aa87-9673bbf52706",
+               "id": "11",
+               "name": "Garden Apartment with Jacuzzi, Sauna, WIFI,Netflix - Guesthouses for Rent in Pretoria, Gauteng, South Africa",
+               "type": "url",
+               "url": "https://www.airbnb.co.za/rooms/17791973?adults=2&check_in=2021-06-26&check_out=2021-06-27&translate_ugc=false&federated_search_id=96aa5e5d-2587-4caf-8a1d-301b4c550a7d&source_impression_id=p3_1624611273_YktPb%2FJ1fznRBmLe"
+            }, {
+               "date_added": "13269085454426875",
+               "guid": "0408df4c-9150-4c33-896f-52a9f97db767",
+               "id": "12",
+               "name": "Twin Room : Room 6 - Guesthouses for Rent in Brooklyn, Gauteng, South Africa",
+               "type": "url",
+               "url": "https://www.airbnb.co.za/rooms/42550312?adults=2&check_in=2021-06-26&check_out=2021-06-27&translate_ugc=false&federated_search_id=9f7dbd03-fedf-4760-8e12-3b4fb5ee75cf&source_impression_id=p3_1624611730_4cXyfLoWnORVm4N3&guests=1"
+            }, {
+               "date_added": "13269085645328699",
+               "guid": "dd6ee916-3090-47a8-8268-f37f01d8936b",
+               "id": "13",
+               "name": "Centurion, Romantic get-a-way, executive suite - Guest suites for Rent in Centurion, Gauteng, South Africa",
+               "type": "url",
+               "url": "https://www.airbnb.co.za/rooms/40193043?adults=2&check_in=2021-06-26&check_out=2021-06-27&translate_ugc=false&federated_search_id=96aa5e5d-2587-4caf-8a1d-301b4c550a7d&source_impression_id=p3_1624607144_XHgJsb8NVojsJNQg&guests=1"
+            }, {
+               "date_added": "13269085954200855",
+               "guid": "369535e0-8fed-4f13-a4cc-c65b115b4118",
+               "id": "14",
+               "name": "Copper - Sunset Guesthouse - Resting View - Bed and breakfasts for Rent in Pretoria, Gauteng, South Africa",
+               "type": "url",
+               "url": "https://www.airbnb.co.za/rooms/39828300?adults=2&check_in=2021-06-26&check_out=2021-06-27&translate_ugc=false&federated_search_id=6d0f62d4-74aa-4d68-a509-e23fe00623b9&source_impression_id=p3_1624612202_kEk5bf5IpeWNVuvO&guests=1"
+            } ],
+            "date_added": "13269084911502873",
+            "date_modified": "13269186173685603",
+            "guid": "cc425fa1-be8b-4b94-8212-da38a1873b68",
+            "id": "10",
+            "name": "abnb",
+            "type": "folder"
+         }, {
+            "date_added": "13269186173685603",
+            "guid": "838e82ea-5bfe-40cc-9300-c409c33ab6ec",
+            "id": "15",
+            "name": "3x3x3 Moyu RS3M 2020 Edition Magnetic Stickerless",
+            "type": "url",
+            "url": "https://www.speedcubes.co.za/home/671-3x3x3-rs3m-2020-edition-magnetic-stickerless.html"
+         }, {
+            "date_added": "13269531990572671",
+            "guid": "9939e22b-dafc-47ba-84dd-d77728ba615f",
+            "id": "17",
+            "name": "J Perm | Speedcubing Tutorials",
+            "type": "url",
+            "url": "https://jperm.net/"
+         } ],
+         "date_added": "13268929887297889",
+         "date_modified": "13269531990572671",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13268929887297890",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13268929887297892",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

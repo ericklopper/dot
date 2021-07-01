@@ -1,0 +1,47 @@
+2021/07/01-19:19:00.635 87564 Reusing MANIFEST /home/torr/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-19:19:00.636 87564 Recovering log #936
+2021/07/01-19:19:00.648 87564 Reusing old log /home/torr/.config/Microsoft/Microsoft Teams/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000936.log 
+2021/07/01-19:19:14.242 879d9 Level-0 table #956: started
+2021/07/01-19:19:14.307 879d9 Level-0 table #956: 1969319 bytes OK
+2021/07/01-19:19:14.350 879d9 Delete type=0 #936
+2021/07/01-19:19:14.436 879d9 Compacting 1@0 + 0@1 files
+2021/07/01-19:19:14.459 879d9 Generated table #957@0: 2191 keys, 145711 bytes
+2021/07/01-19:19:14.475 879d9 Generated table #958@0: 109 keys, 88508 bytes
+2021/07/01-19:19:14.475 879d9 Compacted 1@0 + 0@1 files => 234219 bytes
+2021/07/01-19:19:14.498 879d9 compacted to: files[ 0 2 16 0 0 0 0 ]
+2021/07/01-19:19:14.498 879d9 Delete type=2 #956
+2021/07/01-19:19:14.830 879d9 Compacting 1@1 + 10@2 files
+2021/07/01-19:19:14.919 879d9 Generated table #959@1: 3545 keys, 2190927 bytes
+2021/07/01-19:19:15.055 879d9 Generated table #960@1: 26522 keys, 2226520 bytes
+2021/07/01-19:19:15.168 879d9 Generated table #961@1: 4784 keys, 2158649 bytes
+2021/07/01-19:19:15.236 879d9 Generated table #962@1: 1113 keys, 2132714 bytes
+2021/07/01-19:19:15.330 879d9 Generated table #963@1: 1972 keys, 2149506 bytes
+2021/07/01-19:19:15.415 879d9 Generated table #964@1: 1410 keys, 2133574 bytes
+2021/07/01-19:19:15.510 879d9 Generated table #965@1: 1360 keys, 2136054 bytes
+2021/07/01-19:19:15.600 879d9 Generated table #966@1: 1330 keys, 2137997 bytes
+2021/07/01-19:19:15.704 879d9 Generated table #967@1: 1444 keys, 2139398 bytes
+2021/07/01-19:19:15.819 879d9 Generated table #968@1: 15786 keys, 2173752 bytes
+2021/07/01-19:19:15.831 879d9 Generated table #969@1: 455 keys, 25660 bytes
+2021/07/01-19:19:15.831 879d9 Compacted 1@1 + 10@2 files => 21604751 bytes
+2021/07/01-19:19:15.852 879d9 compacted to: files[ 0 1 17 0 0 0 0 ]
+2021/07/01-19:19:15.853 879d9 Delete type=2 #940
+2021/07/01-19:19:15.853 879d9 Delete type=2 #941
+2021/07/01-19:19:15.853 879d9 Delete type=2 #942
+2021/07/01-19:19:15.853 879d9 Delete type=2 #943
+2021/07/01-19:19:15.853 879d9 Delete type=2 #944
+2021/07/01-19:19:15.853 879d9 Delete type=2 #945
+2021/07/01-19:19:15.853 879d9 Delete type=2 #946
+2021/07/01-19:19:15.853 879d9 Delete type=2 #947
+2021/07/01-19:19:15.853 879d9 Delete type=2 #948
+2021/07/01-19:19:15.853 879d9 Delete type=2 #949
+2021/07/01-19:19:15.853 879d9 Delete type=2 #957
+2021/07/01-20:45:08.662 879d9 Compacting 1@1 + 3@2 files
+2021/07/01-20:45:08.717 879d9 Generated table #970@1: 16041 keys, 2212367 bytes
+2021/07/01-20:45:08.756 879d9 Generated table #971@1: 13463 keys, 2184205 bytes
+2021/07/01-20:45:08.771 879d9 Generated table #972@1: 244 keys, 70082 bytes
+2021/07/01-20:45:08.771 879d9 Compacted 1@1 + 3@2 files => 4466654 bytes
+2021/07/01-20:45:08.787 879d9 compacted to: files[ 0 0 17 0 0 0 0 ]
+2021/07/01-20:45:08.788 879d9 Delete type=2 #950
+2021/07/01-20:45:08.788 879d9 Delete type=2 #951
+2021/07/01-20:45:08.788 879d9 Delete type=2 #952
+2021/07/01-20:45:08.788 879d9 Delete type=2 #958

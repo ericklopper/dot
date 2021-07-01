@@ -1,0 +1,26 @@
+2021/07/01-17:46:54.761 496cb Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-17:46:54.763 496cb Recovering log #341
+2021/07/01-17:46:54.833 496cb Reusing old log /home/torr/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000341.log 
+2021/07/01-17:47:09.774 496cb Level-0 table #353: started
+2021/07/01-17:47:09.790 496cb Level-0 table #353: 2025168 bytes OK
+2021/07/01-17:47:09.798 496cb Delete type=0 #341
+2021/07/01-17:47:53.825 496ec Compacting 1@1 + 8@2 files
+2021/07/01-17:47:53.854 496ec Generated table #354@1: 3515 keys, 2164746 bytes
+2021/07/01-17:47:53.906 496ec Generated table #355@1: 17487 keys, 2211802 bytes
+2021/07/01-17:47:53.928 496ec Generated table #356@1: 1831 keys, 2146377 bytes
+2021/07/01-17:47:53.949 496ec Generated table #357@1: 1382 keys, 2134564 bytes
+2021/07/01-17:47:53.974 496ec Generated table #358@1: 1364 keys, 2135620 bytes
+2021/07/01-17:47:54.017 496ec Generated table #359@1: 17673 keys, 2206641 bytes
+2021/07/01-17:47:54.047 496ec Generated table #360@1: 10586 keys, 2188450 bytes
+2021/07/01-17:47:54.056 496ec Generated table #361@1: 3601 keys, 374940 bytes
+2021/07/01-17:47:54.056 496ec Compacted 1@1 + 8@2 files => 15563140 bytes
+2021/07/01-17:47:54.063 496ec compacted to: files[ 0 0 8 0 0 0 0 ]
+2021/07/01-17:47:54.063 496ec Delete type=2 #343
+2021/07/01-17:47:54.063 496ec Delete type=2 #344
+2021/07/01-17:47:54.063 496ec Delete type=2 #345
+2021/07/01-17:47:54.063 496ec Delete type=2 #346
+2021/07/01-17:47:54.063 496ec Delete type=2 #347
+2021/07/01-17:47:54.063 496ec Delete type=2 #348
+2021/07/01-17:47:54.063 496ec Delete type=2 #349
+2021/07/01-17:47:54.063 496ec Delete type=2 #350
+2021/07/01-17:47:54.063 496ec Delete type=2 #353

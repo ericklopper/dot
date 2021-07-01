@@ -1,0 +1,53 @@
+2021/07/01-13:23:10.284 3886 Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/01-13:23:10.284 3886 Recovering log #321
+2021/07/01-13:23:10.342 3886 Reusing old log /home/torr/.config/chromium/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000321.log 
+2021/07/01-13:42:31.136 10201 Level-0 table #332: started
+2021/07/01-13:42:31.169 10201 Level-0 table #332: 1758640 bytes OK
+2021/07/01-13:42:31.176 10201 Delete type=0 #321
+2021/07/01-13:44:13.904 3886 Compacting 1@1 + 11@2 files
+2021/07/01-13:44:13.963 3886 Generated table #333@1: 2353 keys, 2146035 bytes
+2021/07/01-13:44:14.064 3886 Generated table #334@1: 19391 keys, 2215260 bytes
+2021/07/01-13:44:14.122 3886 Generated table #335@1: 1845 keys, 2146661 bytes
+2021/07/01-13:44:14.180 3886 Generated table #336@1: 1413 keys, 2134619 bytes
+2021/07/01-13:44:14.239 3886 Generated table #337@1: 1365 keys, 2136464 bytes
+2021/07/01-13:44:14.355 3886 Generated table #338@1: 17595 keys, 2204827 bytes
+2021/07/01-13:44:14.426 3886 Generated table #339@1: 9493 keys, 2168067 bytes
+2021/07/01-13:44:14.447 3886 Generated table #340@1: 3175 keys, 312507 bytes
+2021/07/01-13:44:14.447 3886 Compacted 1@1 + 11@2 files => 15464440 bytes
+2021/07/01-13:44:14.454 3886 compacted to: files[ 0 0 9 0 0 0 0 ]
+2021/07/01-13:44:14.455 3886 Delete type=2 #288
+2021/07/01-13:44:14.455 3886 Delete type=2 #298
+2021/07/01-13:44:14.455 3886 Delete type=2 #309
+2021/07/01-13:44:14.455 3886 Delete type=2 #319
+2021/07/01-13:44:14.456 3886 Delete type=2 #323
+2021/07/01-13:44:14.456 3886 Delete type=2 #324
+2021/07/01-13:44:14.456 3886 Delete type=2 #325
+2021/07/01-13:44:14.456 3886 Delete type=2 #326
+2021/07/01-13:44:14.456 3886 Delete type=2 #327
+2021/07/01-13:44:14.456 3886 Delete type=2 #328
+2021/07/01-13:44:14.456 3886 Delete type=2 #329
+2021/07/01-13:44:14.456 3886 Delete type=2 #332
+2021/07/01-13:59:02.892 3888 Level-0 table #342: started
+2021/07/01-13:59:02.925 3888 Level-0 table #342: 1424848 bytes OK
+2021/07/01-13:59:02.932 3888 Delete type=0 #331
+2021/07/01-14:00:55.766 3886 Compacting 1@1 + 9@2 files
+2021/07/01-14:00:55.793 3886 Generated table #343@1: 3510 keys, 2187390 bytes
+2021/07/01-14:00:55.828 3886 Generated table #344@1: 17421 keys, 2211719 bytes
+2021/07/01-14:00:55.847 3886 Generated table #345@1: 1826 keys, 2144855 bytes
+2021/07/01-14:00:55.867 3886 Generated table #346@1: 1378 keys, 2136524 bytes
+2021/07/01-14:00:55.886 3886 Generated table #347@1: 1364 keys, 2135599 bytes
+2021/07/01-14:00:55.918 3886 Generated table #348@1: 17590 keys, 2222187 bytes
+2021/07/01-14:00:55.943 3886 Generated table #349@1: 10565 keys, 2196915 bytes
+2021/07/01-14:00:55.952 3886 Generated table #350@1: 3598 keys, 295716 bytes
+2021/07/01-14:00:55.952 3886 Compacted 1@1 + 9@2 files => 15530905 bytes
+2021/07/01-14:00:55.959 3886 compacted to: files[ 0 0 8 0 0 0 0 ]
+2021/07/01-14:00:55.959 3886 Delete type=2 #267
+2021/07/01-14:00:55.959 3886 Delete type=2 #333
+2021/07/01-14:00:55.959 3886 Delete type=2 #334
+2021/07/01-14:00:55.959 3886 Delete type=2 #335
+2021/07/01-14:00:55.959 3886 Delete type=2 #336
+2021/07/01-14:00:55.959 3886 Delete type=2 #337
+2021/07/01-14:00:55.959 3886 Delete type=2 #338
+2021/07/01-14:00:55.959 3886 Delete type=2 #339
+2021/07/01-14:00:55.959 3886 Delete type=2 #340
+2021/07/01-14:00:55.959 3886 Delete type=2 #342

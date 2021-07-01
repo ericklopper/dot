@@ -1,0 +1,25 @@
+[$Version]
+update_info=spectacle_newConfig.upd:spectacle-new-config
+
+[General]
+autoSaveImage=true
+copyImageToClipboard=true
+printKeyActionRunning=FocusWindow
+useReleaseToCapture=true
+
+[GuiConfig]
+captureMode=5
+cropRegion=12,515,1580,455
+quitAfterSaveCopyExport=true
+window-position=2738,433
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/Screenshots/Screenshot_3.png,file:$HOME/Pictures/Screenshots/Screenshot_10.png
+Recent URLs[$e]=file:$HOME/Pictures/Screenshots/,file:$HOME/
+iconViewIconSize=43
+
+[Save]
+copySaveLocation=false
+lastSaveAsLocation=file:///home/torr/Pictures/Screenshots/Screenshot_10.png
+lastSaveLocation=file:///home/torr/Pictures/Screenshots/Screenshot_10.png
+saveFilenameFormat=Screenshot_%T_%d

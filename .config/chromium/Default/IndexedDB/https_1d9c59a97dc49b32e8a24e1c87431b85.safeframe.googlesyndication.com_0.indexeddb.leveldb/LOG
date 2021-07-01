@@ -1,0 +1,6 @@
+2021/06/30-09:18:03.824 28c973 Creating DB /home/torr/.config/chromium/Default/IndexedDB/https_1d9c59a97dc49b32e8a24e1c87431b85.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2021/06/30-09:18:03.877 28c973 Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_1d9c59a97dc49b32e8a24e1c87431b85.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/06/30-09:18:07.564 28d333 Level-0 table #5: started
+2021/06/30-09:18:07.571 28d333 Level-0 table #5: 480 bytes OK
+2021/06/30-09:18:07.590 28d333 Delete type=0 #3
+2021/06/30-09:18:07.590 28d333 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

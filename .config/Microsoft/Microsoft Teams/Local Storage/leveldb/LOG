@@ -1,0 +1,24 @@
+2021/07/01-19:18:57.993 874be Reusing MANIFEST /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/07/01-19:18:57.994 874be Recovering log #549
+2021/07/01-19:18:57.994 874be Reusing old log /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000549.log 
+2021/07/01-19:19:18.929 87b18 Level-0 table #553: started
+2021/07/01-19:19:18.945 87b18 Level-0 table #553: 163589 bytes OK
+2021/07/01-19:19:18.968 87b18 Delete type=0 #549
+2021/07/01-19:19:18.968 87b18 Compacting 4@0 + 1@1 files
+2021/07/01-19:19:18.987 87b18 Generated table #554@0: 390 keys, 485943 bytes
+2021/07/01-19:19:18.987 87b18 Compacted 4@0 + 1@1 files => 485943 bytes
+2021/07/01-19:19:19.010 87b18 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/01-19:19:19.011 87b18 Delete type=2 #544
+2021/07/01-19:19:19.011 87b18 Delete type=2 #546
+2021/07/01-19:19:19.011 87b18 Delete type=2 #548
+2021/07/01-19:19:19.011 87b18 Delete type=2 #550
+2021/07/01-19:19:19.011 87b18 Delete type=2 #553
+2021/07/01-19:59:06.391 87b18 Level-0 table #556: started
+2021/07/01-19:59:06.404 87b18 Level-0 table #556: 37623 bytes OK
+2021/07/01-19:59:06.425 87b18 Delete type=0 #552
+2021/07/01-20:14:39.709 87b18 Level-0 table #558: started
+2021/07/01-20:14:39.727 87b18 Level-0 table #558: 47563 bytes OK
+2021/07/01-20:14:39.746 87b18 Delete type=0 #555
+2021/07/01-20:51:15.004 87b18 Level-0 table #560: started
+2021/07/01-20:51:15.021 87b18 Level-0 table #560: 64850 bytes OK
+2021/07/01-20:51:15.041 87b18 Delete type=0 #557

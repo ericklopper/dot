@@ -1,0 +1,62 @@
+{
+    "bookmarks": [],
+    "gui_state": {
+        "startupdialog": {
+            "geometry": "AdnQywADAAAAAAeAAAAAJAAADv8AAAQ3AAAIWgAAADQAAA/RAAACTwAAAAACAAAAB4AAAAeAAAAAJAAADv8AAAQ3",
+            "width": 1920,
+            "height": 1044,
+            "x": 1920,
+            "y": 36
+        },
+        "messagebox": {
+            "geometry": "AdnQywADAAAAAAnOAAABnwAADJ0AAAJIAAAJzgAAAZ8AAAydAAACSAAAAAAAAAAAB4AAAAnOAAABnwAADJ0AAAJI",
+            "width": 720,
+            "height": 170,
+            "x": 2510,
+            "y": 415
+        },
+        "preferencesview": {
+            "geometry": "AdnQywADAAAAAAoGAAAA8gAADGUAAAMXAAAKCgAAAQ4AAAxhAAADEwAAAAAAAAAAB4AAAAoKAAABDgAADGEAAAMT",
+            "width": 600,
+            "height": 518,
+            "x": 2566,
+            "y": 242
+        },
+        "clone": {
+            "geometry": "AdnQywADAAAAAAnYAAAAJAAADK8AAAELAAAJ3AAAAEAAAAyrAAABBwAAAAAAAAAAB4AAAAncAAAAQAAADKsAAAEH",
+            "width": 720,
+            "height": 200,
+            "x": 2520,
+            "y": 36
+        },
+        "remoteeditor": {
+            "geometry": "AdnQywADAAAAAAeAAAAAJAAADv8AAAQ3AAAHgAAAACQAAA7/AAAENwAAAAACAAAAB4AAAAeAAAAAJAAADv8AAAQ3",
+            "width": 1920,
+            "height": 1044,
+            "x": 1920,
+            "y": 36
+        },
+        "mainview": {
+            "geometry": "AdnQywADAAAAAAeAAAAAJAAADv8AAAQ3AAAHhAAAAEAAAA0jAAAEMwAAAAACAAAAB4AAAAeAAAAAJAAADv8AAAQ3",
+            "width": 1920,
+            "height": 1044,
+            "x": 1920,
+            "y": 36,
+            "lock_layout": false,
+            "windowstate": "AAAA/wAAAAL9AAAAAgAAAAIAAAeAAAACCfwBAAAAA/sAAAAMAFMAdABhAHQAdQBzAQAAAAAAAAEoAAAAcQAAIAD7AAAADABDAG8AbQBtAGkAdAEAAAErAAADMQAAAJUA/////AAABF8AAAMhAAAAugD////6AAAAAAEAAAAE+wAAABAAQgByAGEAbgBjAGgAZQBzAQAAAAD/////AAAAlAD////7AAAAFABTAHUAYgBtAG8AZAB1AGwAZQBzAQAAAAD/////AAAAugD////7AAAAEgBGAGEAdgBvAHIAaQB0AGUAcwAAAAAA/////wAAAKYA////+wAAAAwAUgBlAGMAZQBuAHQAAAAAAP////8AAACGAP///wAAAAMAAAeAAAACCPwBAAAAAvsAAAAIAEQAaQBmAGYBAAAAAAAAB4AAAABgAP////wAAAAA/////wAAAAAA////+v////8BAAAAAvsAAAAOAEEAYwB0AGkAbwBuAHMAAAAAAP////8AAABfAP////sAAAAOAEMAbwBuAHMAbwBsAGUAAAAAAP////8AAABiAP///wAAAwwAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA",
+            "show_status_filter": false,
+            "toolbars": [],
+            "ref_sort": 0,
+            "show_diff_line_numbers": false,
+            "image_diff_mode": 0,
+            "image_zoom_mode": 0
+        }
+    },
+    "recent": [
+        {
+            "name": "git",
+            "path": "/home/torr/.stoor/git"
+        }
+    ],
+    "copy_formats": []
+}

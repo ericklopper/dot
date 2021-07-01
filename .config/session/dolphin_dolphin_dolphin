@@ -1,0 +1,19 @@
+[1]
+Active Tab Index=1
+Tab Count=2
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00+file:///usr/share/icons/candy-icons/preview\x00\x00\x00\x00\x01\x00\x00\x005file:///usr/share/icons/candy-icons/preview/candy.png\x00\x00\x00\x01\x00\x00\x005file:///usr/share/icons/candy-icons/preview/candy.png\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x04@\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+Tab Data 1=\x00\x00\x00\x02\x00\x00\x00\x00\tdesktop:/\x00\x00\x00\x00\x01\x00\x00\x00\x13desktop:/.directory\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC0AAACKvwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAIA////+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAqAAACKgAAAE4A////AAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAAgD///8AAAADAAAHgAAAALb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAAAAAHgAAAAAIA////AAABPwAAAioAAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+eDP1 HDMI2 Height 1920x1080=664
+eDP1 HDMI2 Width 1920x1080=1272
+eDP1 HDMI2 Window-Maximized 1920x1080=true
+eDP1 HDMI2 XPosition 1920x1080=1924
+eDP1 HDMI2 YPosition 1920x1080=64
+eDP1 XPosition 1920x1080=905
+eDP1 YPosition 1920x1080=64
