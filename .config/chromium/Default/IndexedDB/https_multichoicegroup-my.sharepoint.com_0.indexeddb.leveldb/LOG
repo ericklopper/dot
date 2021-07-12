@@ -1,3 +1,12 @@
-2021/07/01-14:23:04.775 4d77f Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_multichoicegroup-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/07/01-14:23:04.775 4d77f Recovering log #7
-2021/07/01-14:23:04.780 4d77f Reusing old log /home/torr/.config/chromium/Default/IndexedDB/https_multichoicegroup-my.sharepoint.com_0.indexeddb.leveldb/000007.log 
+2021/07/08-10:14:56.075 14cd0 Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_multichoicegroup-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-10:14:56.075 14cd0 Recovering log #11
+2021/07/08-10:14:56.085 14cd0 Reusing old log /home/torr/.config/chromium/Default/IndexedDB/https_multichoicegroup-my.sharepoint.com_0.indexeddb.leveldb/000011.log 
+2021/07/08-10:20:44.449 14cd8 Level-0 table #16: started
+2021/07/08-10:20:44.543 14cd8 Level-0 table #16: 1641230 bytes OK
+2021/07/08-10:20:44.584 14cd8 Delete type=0 #11
+2021/07/08-10:20:53.681 187ba Compacting 1@1 + 1@2 files
+2021/07/08-10:20:53.707 187ba Generated table #17@1: 3445 keys, 629051 bytes
+2021/07/08-10:20:53.707 187ba Compacted 1@1 + 1@2 files => 629051 bytes
+2021/07/08-10:20:53.736 187ba compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/08-10:20:53.736 187ba Delete type=2 #13
+2021/07/08-10:20:53.736 187ba Delete type=2 #16

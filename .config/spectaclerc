@@ -9,17 +9,15 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=12,515,1580,455
-quitAfterSaveCopyExport=true
-window-position=2738,433
+window-position=2812,349
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Pictures/Screenshots/Screenshot_3.png,file:$HOME/Pictures/Screenshots/Screenshot_10.png
-Recent URLs[$e]=file:$HOME/Pictures/Screenshots/,file:$HOME/
+Recent Files[$e]=file:$HOME/Pictures/Screenshots/Screenshot_3.png,file:$HOME/Pictures/Screenshots/Screenshot_23.png,file:$HOME/Pictures/Screenshots/Screenshot_22.png,file:$HOME/Pictures/ChangeCreate/Screenshot_18.png,file:$HOME/Pictures/ChangeCreate/Screenshot_17.png,file:$HOME/Pictures/Screenshots/Screenshot_10.png
+Recent URLs[$e]=file:$HOME/Pictures/Screenshots/,file:$HOME/,file:$HOME/Pictures/ChangeCreate/,file:$HOME/Documents/
 iconViewIconSize=43
 
 [Save]
 copySaveLocation=false
 lastSaveAsLocation=file:///home/torr/Pictures/Screenshots/Screenshot_10.png
-lastSaveLocation=file:///home/torr/Pictures/Screenshots/Screenshot_10.png
+lastSaveLocation=file:///home/torr/Pictures/Screenshot_15.png
 saveFilenameFormat=Screenshot_%T_%d

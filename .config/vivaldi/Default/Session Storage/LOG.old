@@ -1,3 +1,9 @@
-2021/06/29-10:52:50.950 3 Reusing MANIFEST /home/torr/.config/vivaldi/Default/Session Storage/MANIFEST-000001
-2021/06/29-10:52:50.954 3 Recovering log #3
-2021/06/29-10:52:50.965 3 Reusing old log /home/torr/.config/vivaldi/Default/Session Storage/000003.log 
+2021/07/10-11:18:22.560 5 Reusing MANIFEST /home/torr/.config/vivaldi/Default/Session Storage/MANIFEST-000001
+2021/07/10-11:18:22.560 5 Recovering log #3
+2021/07/10-11:18:22.560 5 Reusing old log /home/torr/.config/vivaldi/Default/Session Storage/000003.log 
+2021/07/11-02:27:36.031 75 Level-0 table #5: started
+2021/07/11-02:27:36.050 75 Level-0 table #5: 22288 bytes OK
+2021/07/11-02:27:36.063 75 Delete type=0 #3
+2021/07/12-04:28:02.487 f8 Level-0 table #7: started
+2021/07/12-04:28:02.502 f8 Level-0 table #7: 23736 bytes OK
+2021/07/12-04:28:02.521 f8 Delete type=0 #4

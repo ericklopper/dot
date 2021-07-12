@@ -1,3 +1,6 @@
-2021/07/01-16:44:44.942 11470 Reusing MANIFEST /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/07/01-16:44:44.942 11470 Recovering log #549
-2021/07/01-16:44:44.943 11470 Reusing old log /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000549.log 
+2021/07/12-14:40:23.335 2fa1 Reusing MANIFEST /home/torr/.stoor/git/dot/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/07/12-14:40:23.336 2fa1 Recovering log #1117
+2021/07/12-14:40:23.336 2fa1 Reusing old log /home/torr/.stoor/git/dot/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/001117.log 
+2021/07/12-14:41:25.060 4bc5 Level-0 table #1121: started
+2021/07/12-14:41:25.074 4bc5 Level-0 table #1121: 153273 bytes OK
+2021/07/12-14:41:25.090 4bc5 Delete type=0 #1117

@@ -10,10 +10,10 @@
     <tag>round</tag>
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-image" checksum="157dcef48665ab465439cfaf10d6feeb">
+  <resource identifier="gimp-brush-clipboard-image" checksum="7544a4bed9fbac0e88ec680cdbdb7fd7">
   </resource>
 
-  <resource identifier="gimp-brush-clipboard-mask" checksum="157dcef48665ab465439cfaf10d6feeb">
+  <resource identifier="gimp-brush-clipboard-mask" checksum="2b5f97e52e173e3dc329f9f4d7f637eb">
   </resource>
 
   <resource identifier="${gimp_data_dir}/brushes/Basic/1-pixel.vbr" checksum="c84494b4a904a7c1a3548e564b073ca3">
@@ -772,7 +772,7 @@
   <resource identifier="${mypaint_brushes_dir}/ramon/wet_round.myb" checksum="038abfe33947692f773e0244d2ac7fc1">
   </resource>
 
-  <resource identifier="gimp-pattern-clipboard-image" checksum="eff9598f9f61c1dc78d842f1798c2ab8">
+  <resource identifier="gimp-pattern-clipboard-image" checksum="d639523ca31129ab768e1c3d1301c7cd">
   </resource>
 
   <resource identifier="${gimp_data_dir}/patterns/Legacy/3dgreen.pat" checksum="00052731f14a5bc614daece969b368bc">
@@ -1177,7 +1177,7 @@
   <resource identifier="${gimp_data_dir}/gradients/Yellow_Orange.ggr" checksum="428584726006e23e260baa2a7d79f295">
   </resource>
 
-  <resource identifier="gimp-palette-color-history" checksum="ec538e3b13701c7d51ee9601106cdada">
+  <resource identifier="gimp-palette-color-history" checksum="a379c54c6b9dd58380005c094fb8eeab">
   </resource>
 
   <resource identifier="${gimp_data_dir}/palettes/Bears.gpl" checksum="e82e818c20ac12bdd21049924ea2d1e7">
@@ -1372,6 +1372,18 @@
   <resource identifier="DejaVu Sans Mono Bold Oblique" checksum="(null)">
   </resource>
 
+  <resource identifier="DejaVu Sans Mono for Powerline" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono for Powerline Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono for Powerline Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="DejaVu Sans Mono for Powerline Oblique" checksum="(null)">
+  </resource>
+
   <resource identifier="DejaVu Sans Mono Oblique" checksum="(null)">
   </resource>
 
@@ -1409,6 +1421,9 @@
   </resource>
 
   <resource identifier="DejaVu Serif Semi-Condensed" checksum="(null)">
+  </resource>
+
+  <resource identifier="Droid Sans Mono for Powerline Plus Nerd File Types Mono" checksum="(null)">
   </resource>
 
   <resource identifier="Fantasque Sans Mono" checksum="(null)">
@@ -1735,6 +1750,9 @@
   <resource identifier="Hack Italic" checksum="(null)">
   </resource>
 
+  <resource identifier="icomoon" checksum="(null)">
+  </resource>
+
   <resource identifier="Liberation Mono" checksum="(null)">
   </resource>
 
@@ -1781,6 +1799,9 @@
   </resource>
 
   <resource identifier="Monospace Italic" checksum="(null)">
+  </resource>
+
+  <resource identifier="MT Extra" checksum="(null)">
   </resource>
 
   <resource identifier="Nimbus Mono PS" checksum="(null)">
@@ -4063,10 +4084,16 @@
   <resource identifier="Standard Symbols PS" checksum="(null)">
   </resource>
 
+  <resource identifier="Symbol" checksum="(null)">
+  </resource>
+
   <resource identifier="Terminus" checksum="(null)">
   </resource>
 
   <resource identifier="Terminus Bold" checksum="(null)">
+  </resource>
+
+  <resource identifier="UbuntuMonoDerivativePowerline Nerd Font" checksum="(null)">
   </resource>
 
   <resource identifier="URW Bookman Light" checksum="(null)">
@@ -4091,6 +4118,18 @@
   </resource>
 
   <resource identifier="URW Gothic Semi-Bold Oblique" checksum="(null)">
+  </resource>
+
+  <resource identifier="Webdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings" checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 2," checksum="(null)">
+  </resource>
+
+  <resource identifier="Wingdings 3," checksum="(null)">
   </resource>
 
   <resource identifier="xos4 Terminus" checksum="(null)">

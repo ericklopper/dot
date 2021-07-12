@@ -1,5 +1,5 @@
 {
-   "checksum": "44c20d3377538fb6bfb8c2b733ab511a",
+   "checksum": "b45b0c42b8dd68eb69005ecc0f7f0c4b",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -117,9 +117,16 @@
             "name": "Requests",
             "type": "url",
             "url": "https://service.sma247.com/saw/Requests?TENANTID=557713026"
+         }, {
+            "date_added": "13270241389819466",
+            "guid": "a135a543-7e8d-4c35-bd0c-6ab89c5a44e3",
+            "id": "25",
+            "name": "ceos3c",
+            "type": "url",
+            "url": "https://www.ceos3c.com/security/getting-started-cyber-security-complete-guide/"
          } ],
          "date_added": "13268929887297889",
-         "date_modified": "13269596919912825",
+         "date_modified": "13270241389819466",
          "guid": "00000000-0000-4000-a000-000000000002",
          "id": "1",
          "name": "Bookmarks bar",

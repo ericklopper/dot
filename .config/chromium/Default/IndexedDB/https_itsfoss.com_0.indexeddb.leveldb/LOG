@@ -1,6 +1,15 @@
-2021/06/25-20:02:21.852 1fff0b Creating DB /home/torr/.config/chromium/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb since it was missing.
-2021/06/25-20:02:21.884 1fff0b Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/06/25-20:02:46.166 200579 Level-0 table #5: started
-2021/06/25-20:02:46.173 200579 Level-0 table #5: 373 bytes OK
-2021/06/25-20:02:46.190 200579 Delete type=0 #3
-2021/06/25-20:02:46.191 200579 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/08-11:26:33.795 30244 Reusing MANIFEST /home/torr/.config/chromium/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/07/08-11:26:33.795 30244 Recovering log #4
+2021/07/08-11:26:33.795 30244 Reusing old log /home/torr/.config/chromium/Default/IndexedDB/https_itsfoss.com_0.indexeddb.leveldb/000004.log 
+2021/07/08-11:26:44.214 408b8 Level-0 table #8: started
+2021/07/08-11:26:44.224 408b8 Level-0 table #8: 209 bytes OK
+2021/07/08-11:26:44.247 408b8 Delete type=0 #4
+2021/07/08-11:26:44.247 408b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/07/08-11:26:44.247 408b8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x06' @ 12 : 1
+2021/07/08-11:26:44.247 408b8 Compacting 1@1 + 1@2 files
+2021/07/08-11:26:44.261 408b8 Generated table #9@1: 9 keys, 361 bytes
+2021/07/08-11:26:44.261 408b8 Compacted 1@1 + 1@2 files => 361 bytes
+2021/07/08-11:26:44.292 408b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/07/08-11:26:44.292 408b8 Delete type=2 #5
+2021/07/08-11:26:44.292 408b8 Delete type=2 #8
+2021/07/08-11:26:44.293 408b8 Manual compaction at level-1 from '\x00\x00\x00\x00\x06' @ 12 : 1 .. (end); will stop at (end)

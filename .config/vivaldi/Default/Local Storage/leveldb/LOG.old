@@ -1,3 +1,9 @@
-2021/06/29-10:52:50.655 5 Reusing MANIFEST /home/torr/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
-2021/06/29-10:52:50.657 5 Recovering log #3
-2021/06/29-10:52:50.662 5 Reusing old log /home/torr/.config/vivaldi/Default/Local Storage/leveldb/000003.log 
+2021/07/10-11:18:22.412 3 Reusing MANIFEST /home/torr/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2021/07/10-11:18:22.413 3 Recovering log #3
+2021/07/10-11:18:22.413 3 Reusing old log /home/torr/.config/vivaldi/Default/Local Storage/leveldb/000003.log 
+2021/07/10-12:27:10.861 7 Level-0 table #5: started
+2021/07/10-12:27:10.873 7 Level-0 table #5: 25812 bytes OK
+2021/07/10-12:27:10.880 7 Delete type=0 #3
+2021/07/10-13:05:56.189 26 Level-0 table #7: started
+2021/07/10-13:05:56.206 26 Level-0 table #7: 22769 bytes OK
+2021/07/10-13:05:56.225 26 Delete type=0 #4

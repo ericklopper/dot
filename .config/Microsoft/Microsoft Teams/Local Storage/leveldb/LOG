@@ -1,24 +1,21 @@
-2021/07/01-19:18:57.993 874be Reusing MANIFEST /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
-2021/07/01-19:18:57.994 874be Recovering log #549
-2021/07/01-19:18:57.994 874be Reusing old log /home/torr/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/000549.log 
-2021/07/01-19:19:18.929 87b18 Level-0 table #553: started
-2021/07/01-19:19:18.945 87b18 Level-0 table #553: 163589 bytes OK
-2021/07/01-19:19:18.968 87b18 Delete type=0 #549
-2021/07/01-19:19:18.968 87b18 Compacting 4@0 + 1@1 files
-2021/07/01-19:19:18.987 87b18 Generated table #554@0: 390 keys, 485943 bytes
-2021/07/01-19:19:18.987 87b18 Compacted 4@0 + 1@1 files => 485943 bytes
-2021/07/01-19:19:19.010 87b18 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/07/01-19:19:19.011 87b18 Delete type=2 #544
-2021/07/01-19:19:19.011 87b18 Delete type=2 #546
-2021/07/01-19:19:19.011 87b18 Delete type=2 #548
-2021/07/01-19:19:19.011 87b18 Delete type=2 #550
-2021/07/01-19:19:19.011 87b18 Delete type=2 #553
-2021/07/01-19:59:06.391 87b18 Level-0 table #556: started
-2021/07/01-19:59:06.404 87b18 Level-0 table #556: 37623 bytes OK
-2021/07/01-19:59:06.425 87b18 Delete type=0 #552
-2021/07/01-20:14:39.709 87b18 Level-0 table #558: started
-2021/07/01-20:14:39.727 87b18 Level-0 table #558: 47563 bytes OK
-2021/07/01-20:14:39.746 87b18 Delete type=0 #555
-2021/07/01-20:51:15.004 87b18 Level-0 table #560: started
-2021/07/01-20:51:15.021 87b18 Level-0 table #560: 64850 bytes OK
-2021/07/01-20:51:15.041 87b18 Delete type=0 #557
+2021/07/12-14:58:58.529 31c7 Reusing MANIFEST /home/torr/.stoor/git/dot/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/MANIFEST-000001
+2021/07/12-14:58:58.530 31c7 Recovering log #1120
+2021/07/12-14:58:58.531 31c7 Reusing old log /home/torr/.stoor/git/dot/.config/Microsoft/Microsoft Teams/Local Storage/leveldb/001120.log 
+2021/07/12-15:00:00.078 4ea0 Level-0 table #1124: started
+2021/07/12-15:00:00.084 4ea0 Level-0 table #1124: 162320 bytes OK
+2021/07/12-15:00:00.098 4ea0 Delete type=0 #1120
+2021/07/12-15:00:00.099 4ea0 Compacting 4@0 + 1@1 files
+2021/07/12-15:00:00.118 4ea0 Generated table #1125@0: 645 keys, 730196 bytes
+2021/07/12-15:00:00.118 4ea0 Compacted 4@0 + 1@1 files => 730196 bytes
+2021/07/12-15:00:00.131 4ea0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/07/12-15:00:00.131 4ea0 Delete type=2 #1114
+2021/07/12-15:00:00.131 4ea0 Delete type=2 #1116
+2021/07/12-15:00:00.131 4ea0 Delete type=2 #1118
+2021/07/12-15:00:00.131 4ea0 Delete type=2 #1121
+2021/07/12-15:00:00.131 4ea0 Delete type=2 #1124
+2021/07/12-15:55:06.570 4ea0 Level-0 table #1127: started
+2021/07/12-15:55:06.577 4ea0 Level-0 table #1127: 61816 bytes OK
+2021/07/12-15:55:06.587 4ea0 Delete type=0 #1123
+2021/07/12-16:32:24.748 4ea0 Level-0 table #1129: started
+2021/07/12-16:32:24.765 4ea0 Level-0 table #1129: 62206 bytes OK
+2021/07/12-16:32:24.787 4ea0 Delete type=0 #1126

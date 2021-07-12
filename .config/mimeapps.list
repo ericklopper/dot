@@ -1,8 +1,10 @@
 [Added Associations]
 application/pdf=foxitreader.desktop;
+text/markdown=trilium-notes.desktop;
 
 [Default Applications]
 application/pdf=FoxitReader.desktop
-x-scheme-handler/msteams=teams.desktop
 application/ppdf=FoxitReader.desktop
 text/html=chromium.desktop
+text/markdown=trilium-notes.desktop;
+x-scheme-handler/msteams=teams.desktop
